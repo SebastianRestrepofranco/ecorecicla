@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EcoRecicla</string>
+    <string-array name="frecuencias_reciclaje">
+        <item>Diariamente</item>
+        <item>2-3 veces por semana</item>
+        <item>Semanalmente</item>
+        <item>Cada 15 días</item>
+        <item>Mensualmente</item>
+        <item>Ocasionalmente</item>
+    </string-array>
+</resources>
